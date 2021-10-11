@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HrUkrTestTask</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="btn_signin_w">128dp</dimen>
+    <dimen name="btn_signin_h">36dp</dimen>
+    <dimen name="btn_signin_text_size">18sp</dimen>
+</resources>
